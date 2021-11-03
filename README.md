@@ -3,8 +3,7 @@ An application which parents and children can use in order to exchange/buy/sell 
 
 
 ## Fields for finding interesting toys include:
-*Location data 
-*Price-range
-*Age-range
-*Type of toy(Barbie, Lego, Car, etc.)
-*
+* Location data 
+* Price-range
+* Age-range
+* Type of toy(Barbie, Lego, Car, etc.)
